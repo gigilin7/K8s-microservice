@@ -234,7 +234,7 @@ $ curl -X GET http://192.168.58.2:31774/gree
 {"message":"Hello World!"}
 ```
 
-# 🎉 You have now deployed a microservice to Kubernetes 🎉
+# 🎉 Successfully deployed a microservice to Kubernetes 🎉
 
 # Supplementary information
 When you start the service, you will see the output of the web server startup. This output will also be captured by the container and can be viewed through the `kubectl logs` command.
