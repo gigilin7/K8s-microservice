@@ -26,6 +26,8 @@ $ mvn archetype:generate -DinteractiveMode=false \
 ![build_microservice](https://github.com/user-attachments/assets/7bbd53f8-72d5-48eb-a4e4-9eee5f40f74c)
 
 Move to the `helidon-quickstart-se` directory and build the service:
+
+( Package the project into a `JAR` and place it in the `target` directory )
 ```
 $ cd helidon-quickstart-se
 $ mvn package
